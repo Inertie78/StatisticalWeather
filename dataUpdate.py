@@ -70,11 +70,10 @@ def combines():
     csv_files = os.listdir(folder_path)
 
     OUTPUT_CSV = "\\data\\dataWeather.csv"
-    
 
     for file in csv_files:
         try:
-            df = pd.read_csv(file)
+            df = pd.read_csv(folder_path + '\\' + file)
             df_list.append(df)
         except Exception as e:
             print(f"⚠️ Erreur de lecture {file} : {e}")
@@ -82,7 +81,7 @@ def combines():
     # Concaténation avec gestion des colonnes manquantes
     if df_list:
         df_final = pd.concat(df_list, ignore_index=True, sort=False)
-        df_final.to_csv(OUTPUT_CSV, index=False)
+        df_final.to_csv(current_directory + OUTPUT_CSV, index=False)
         print(f"✅ Fichier final enregistré sous {OUTPUT_CSV}")
 
 
