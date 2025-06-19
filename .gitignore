@@ -3,3 +3,8 @@
 /.old*
 /data/dataWeather - Copie.csv
 /data/dataWeather.csv
+/data/dataWeather_1500_2000.csv
+/data/dataWeather_2000_2500.csv
+/data/dataWeather_2500_3000.csv
+/data/dataWeather_3000_3500.csv
+/data/dataWeather_3500_4000.csv

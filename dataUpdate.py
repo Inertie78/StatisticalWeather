@@ -73,8 +73,14 @@ def combines():
 
     for file in csv_files:
         try:
-            df = pd.read_csv(folder_path + '\\' + file)
-            df_list.append(df)
+            file_path = folder_path + '\\' + file
+            # Get the file size in bytes
+            file_size = os.path.getsize(file_path) / 1024
+
+            if file_size > 1000:
+                df = pd.read_csv(folder_path + '\\' + file)
+                df_list.append(df)
+    
         except Exception as e:
             print(f"⚠️ Erreur de lecture {file} : {e}")
 
