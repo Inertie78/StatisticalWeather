@@ -19,17 +19,14 @@
 
 
 
-## 🧩Table des matières 
-
-1. **Introduction**
-2. **Mode d'emploi**
- 
 
 ## Introduction
 
 Chacun des deux auteurs de se projet revendiquent de résider dans la plus belle région de Suisse. L'un est un valaisan convaincu et l'autre un fribourgeois qui ne l'est pas moins. A la recherche d'une solution pour déclarer le vainqueur, nous avons décidé de laisser de côté la partie subjective de la question pour faire place à une analyse des données météoroligiques que fourni **MeteoSuisse**. L'objectif étant de pouvoir visualiser sur une carte quelle région (station de mesure) dipose de quel ensoleillement relatif, de quelles températures moyennes par mois et de quel taux de précipitations. Notre carte interractive dispose de curseurs qui permettent de séléctionner une tranche d'altitude, afin de pouvoir comparer les données de manière plus équitables. \
 
-Pour terminer nous avons établi un score par station, sur une échelle de 1 à 10, afin de déterminer quelle région avait le climat le plus favorable.\
+Pour terminer nous avons établi un score par station, sur une échelle de 1 à 10, afin de déterminer quelle région avait le climat le plus favorable.
+
+## Screenshots
 
 ![Carte_interractive.jpg](./data/Screenshots/Carte_interractive.jpg "Aperçu de la carte interractive.")
 
