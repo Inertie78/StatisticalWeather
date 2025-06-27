@@ -1,5 +1,0 @@
-La légende sur la carte affiche une valeur min - max, mais n'affiche plus le nom de la station avec valeur min et max
-on a des valeurs de hauteur de neige négative (mois d'aout par. ex)
-de la beige à Zollikofen au mois d'aout 
-C'est quoi le terme observation ? 
-Le fichier ParamStat.csv n'est vraisemblablement pas utilisé, il y aurait lieu de le supprimer 
