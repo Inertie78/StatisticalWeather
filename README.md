@@ -5,15 +5,8 @@
   <h3 style="color: #444; margin-top: 0;">Projet d'analyse de données</h3>
 
   <p>
-    Réalisé par <strong>Christophe Debons</strong> et <strong>Guillaume Leibzig</strong><br>
-    Sous la supervision de <strong>Prof. Benoît Le Cannellec</strong><br>
-    <em>Haute École ARC – Neuchâtel</em> | 2025
+    Réalisé par <strong>Christophe</strong> et <strong>Guillaume</strong><br>
   </p>
-
-  <p style="font-size: 0.9em; color: #888; margin-top: 30px;">Tous droits réservés</p>
-
-  <img src="./data/Haute-Ecole-Arc/ARC_RGB_300dpi_Logo.jpg"
-       alt="Logo HE-Arc" width="180" style="margin-top: 5px;" />
 
 </div>
 
