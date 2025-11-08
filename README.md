@@ -2,7 +2,7 @@
 <div style="font-family: Arial, sans-serif; padding: 20px; border-bottom: 2px solid #ccc; text-align: center;">
 
   <h1 style="font-size: 2.5em; color: #2a6592; margin-bottom: 10px;">StatisticalWeather</h1>
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
   <h3 style="color: #444; margin-top: 0;">Projet d'analyse de données</h3>
 
   <p>
@@ -11,8 +11,7 @@
 
 </div>
 
-
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Introduction
 
